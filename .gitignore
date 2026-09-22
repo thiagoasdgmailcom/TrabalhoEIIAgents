@@ -39,3 +39,10 @@ Thumbs.db
 
 # Jupyter
 .ipynb_checkpoints/
+
+# Artefatos de execução do projeto (dados baixados e Excel gerados)
+data/runs/
+output/
+
+# Configuração local do Claude Code (permissões específicas desta máquina/sessão)
+.claude/settings.local.json
